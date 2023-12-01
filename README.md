@@ -25,7 +25,7 @@
 Since i used google colab to train model so write command as shown above.
 
 ## Evaluation
-    ![Evaluation](assets/image.png)
+    ![Evaluation](assets/output.png)
 
 ## for inference 
     %cd yolov5
