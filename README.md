@@ -24,8 +24,8 @@
 
 Since i used google colab to train model so write command as shown above.
 
-## Evaluation
-    ![Evaluation](assets/output.png)
+## Evaluate
+![image](https://github.com/Ankitzanzmera/sign_language_detection/assets/96160190/a44efc79-2d37-4afc-b6b6-d99e7df97791)
 
 ## for inference 
     %cd yolov5
